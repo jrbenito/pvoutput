@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pvoutput API wrapper",
+    name="PVOutputAPI",
     version="0.0.1",
     author="Josenivaldo Benito Junior",
     author_email="jrbenito@benito.qsl.br",
